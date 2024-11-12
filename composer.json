@@ -1,0 +1,17 @@
+{
+    "name": "jscorptech/jst-eskiz",
+    "autoload": {
+        "psr-4": {
+            "Jscorptech\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "A'zamov Samandar",
+            "email": "JscorpTech@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}
